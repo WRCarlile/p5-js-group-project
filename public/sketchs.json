@@ -1,0 +1,16 @@
+{"sketchs": [{
+  "id": 0,
+  "title": "Catherine"
+},{
+  "id": 1,
+  "title": "Josh",
+  "sketchFile": "../joshSketch.js"
+},
+{
+  "id": 2,
+  "title": "Ryan"
+},
+{
+  "id": 3,
+  "title": "Darius"
+  }]}
