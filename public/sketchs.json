@@ -1,16 +1,23 @@
 {"sketchs": [{
   "id": 0,
-  "title": "Catherine"
+  "title": "Catherine",
+  "sketchFile": "/assets/catherine-sketch.js",
+  "sketchRemove": "/assets/catherine-remove.js"
 },{
   "id": 1,
   "title": "Josh",
-  "sketchFile": "../joshSketch.js"
+  "sketchFile": "/assets/josh-sketch.js",
+  "sketchRemove": "/assets/josh-remove.js"
 },
 {
   "id": 2,
-  "title": "Ryan"
+  "title": "Ryan",
+  "sketchFile": "/assets/ryan-sketch.js",
+  "sketchRemove": "/assets/ryan-remove.js"
 },
 {
   "id": 3,
-  "title": "Darius"
+  "title": "Darius",
+  "sketchFile": "/assets/darius-sketch.js",
+  "sketchRemove": "/assets/darius-remove.js"
   }]}

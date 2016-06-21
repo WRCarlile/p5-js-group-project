@@ -7,10 +7,10 @@ var sketch = function (p) {
   };
 
   p.draw = function () {
-    p.background(50, 49, 250);
-    p.fill(230, 0, 220);
+    p.background(23, 100, 98);
+    p.fill(200, 100, 0);
     p.rect(x, y, 100, 100);
   };
 };
 
-var joshSketch = new p5(sketch);
+var catherineSketch = new p5(sketch);

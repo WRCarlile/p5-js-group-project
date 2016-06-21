@@ -1,0 +1,1 @@
+catherineSketch.remove();

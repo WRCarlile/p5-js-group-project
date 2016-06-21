@@ -1,0 +1,1 @@
+ryanSketch.remove();
