@@ -7,6 +7,6 @@ export default Ember.Component.extend({
   },
   willDestroyElement() {
     this._super(...arguments);
-    Ember.$.getScript(this.get("sketch.sketchRemove"));
+    eval(this.get("sketch.sketchRemove"));
   },
 });

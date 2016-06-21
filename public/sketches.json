@@ -2,22 +2,22 @@
   "id": 0,
   "title": "Catherine",
   "sketchFile": "/assets/catherine-sketch.js",
-  "sketchRemove": "/assets/catherine-remove.js"
+  "sketchRemove": "catherineSketch.remove()"
 },{
   "id": 1,
   "title": "Josh",
   "sketchFile": "/assets/josh-sketch.js",
-  "sketchRemove": "/assets/josh-remove.js"
+  "sketchRemove": "joshSketch.remove()"
 },
 {
   "id": 2,
   "title": "Ryan",
   "sketchFile": "/assets/ryan-sketch.js",
-  "sketchRemove": "/assets/ryan-remove.js"
+  "sketchRemove": "ryanSketch.remove()"
 },
 {
   "id": 3,
   "title": "Darius",
   "sketchFile": "/assets/darius-sketch.js",
-  "sketchRemove": "/assets/darius-remove.js"
+  "sketchRemove": "dariusSketch.remove()"
   }]}

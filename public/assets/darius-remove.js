@@ -1,1 +1,0 @@
-dariusSketch.remove();
